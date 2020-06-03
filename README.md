@@ -5,7 +5,7 @@ This repository contains my solution to the Docler-Holding AI team's take home a
 
 The task was to classify the cifar-10 dataset.
 
-The data can be found in the /data folder.]
+The data can be found in the /data folder.
 "modified_mobilenet_1k_baseline.py" contains the source code. The model was trained in Google Colab with the notebook "modified_mobilenet_train.ipynb".
 Report.ipynb contains the findigs and the analysis of the problem.
 
