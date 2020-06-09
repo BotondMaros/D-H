@@ -1,5 +1,5 @@
 # D-H
-D-H assignment
+D-H assignment - image processing
 
 This repository contains my solution to the Docler-Holding AI team's take home assignment.
 
